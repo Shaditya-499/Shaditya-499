@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aditya Shaw and I'm a Data Scientist and a Machine learning Engineer, from VIT Chennai.</p>
+<p align="left">My name is Aditya Shaw and I'm a Data Scientist and a Machine learning Engineer from VIT Chennai. Always up to making cool stuff with all of you!</p>
 
 ###
 
