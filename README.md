@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Aditya Shaw and I'm a ..., from ....</p>
 
 ###
 
@@ -37,4 +37,4 @@
 </div>
 
 ###
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shaditya-499)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaditya-499)](https://github.com/anuraghazra/github-readme-stats)
